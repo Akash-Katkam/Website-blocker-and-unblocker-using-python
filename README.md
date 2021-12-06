@@ -1,9 +1,4 @@
 # Website-blocker-and-unblocker-using-python
-This script lets you block websites on your computer by editing your hosts file.
+About Website Blocker:
+Website blockers are software programs that are used to block any websites on the internet and prevent us from accessing them. They are most widely used as browser extensions that “Blacklist” websites for you so that you cannot see the results from those websites. But here, we are going to create a program that blocks websites and you cannot access those blocked websites.
 
-Usage
-First add your Blocked Websites to the array in both scripts.
-
-On Linux: sudo python website_blocker.py On Windows, run the script as Administrator
-
-To unblock the websites, run the website_unblocker.py script.
