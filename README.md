@@ -1,4 +1,7 @@
 # Website-blocker-and-unblocker-using-python
-About Website Blocker:
-The objective of Python website blocker is to block some certain websites which can distract the user during the specified amount of time. In this, we will block the access to the list of some particular websites during the working hours so that the user can only access those websites during the free time only
+
+Website Blocker Python Project:
+The objective of Website Blocker python project is to block the given websites from any device. This project will help the user to stay away from their distraction by blocking websites from their device so that they can not open them.
+
+In this Python Website Blocker Project, the user can enter multiple websites to block, and then clicking on the block button will check the condition that if the website already blocked then print ‘already blocked’ else blocked all that websites and print ‘blocked’.
 
